@@ -9,6 +9,16 @@
 
 <i>✦ Exploring data, discovering patterns, and building intelligent solutions ✦</i>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/kalpana-naidu13">
+<img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:naidukalpana44@gmail.com">
+<img src="https://img.shields.io/badge/Email-31264B?style=for-the-badge&logo=gmail&logoColor=E9D5FF" alt="Email" />
+</a>
+
 </div>
 
 ---
@@ -19,7 +29,7 @@ Hey there! I'm **Kalpana Naidu** 💜
 
 I'm an **MSc Data Science student at Jain (Deemed-to-be University)** with a background in Statistics and a passion for transforming raw data into meaningful insights.
 
-I enjoy working with datasets, building machine learning models, designing interactive dashboards, and finding creative solutions to real-world problems.
+I enjoy exploring datasets, building machine learning models, designing interactive dashboards, and finding creative solutions to real-world problems.
 
 - 🎓 Pursuing **MSc in Data Science**
 - 📚 Completed my **BSc at SIES College**
@@ -73,80 +83,130 @@ I enjoy working with datasets, building machine learning models, designing inter
 
 <h2 align="center">💜 Featured Projects</h2>
 
-### 📰 Fake News Detection
+<p align="center">
+A selection of my projects exploring machine learning, business analytics, and data visualization.
+</p>
 
-Developed a machine learning-based text classification system to distinguish between real and fake news.
+### 💰 1. Pricing Strategy Optimization
 
-- Cleaned and preprocessed textual datasets using Python and NLP techniques.
-- Applied **TF-IDF vectorization** for feature extraction.
-- Trained **Logistic Regression and Random Forest** models.
-- Evaluated performance using accuracy, precision, recall, and F1-score.
+An AI-powered pricing strategy optimization system using Scikit-learn to recommend effective retail prices and support revenue optimization.
 
-### 🏏 IPL Data Analysis Dashboard
-
-Built an interactive Power BI dashboard to analyze IPL match data, player performance, and team statistics.
-
-- Cleaned and transformed datasets using Power Query and SQL.
-- Created interactive visualizations with filters and slicers.
-- Explored winning trends, toss impact, and player performance.
-
-<div align="center">
-
-<a href="https://github.com/deyy13/IPL-Analysis-PowerBI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=IPL-Analysis-PowerBI&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="IPL Project" />
-</a>
-
-</div>
-
-### 💰 Pricing Strategy Optimization
-
-An AI-powered pricing strategy optimization project using Scikit-learn to recommend effective retail prices and support revenue optimization.
+**Tech:** Python · Scikit-learn · Machine Learning
 
 <div align="center">
 
 <a href="https://github.com/deyy13/pricing-strategy-optimization">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=pricing-strategy-optimization&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Pricing Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=pricing-strategy-optimization&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Pricing Strategy Optimization" />
 </a>
 
 </div>
 
-### 📈 Trader Sentiment Analysis
+### 🏏 2. IPL Data Analysis Dashboard
 
-Analyzed the relationship between cryptocurrency market sentiment and trader performance using the Bitcoin Fear/Greed Index and trading data.
+An interactive Power BI dashboard exploring IPL match statistics, team performance, player trends, and toss impact.
+
+**Tech:** Power BI · SQL · Power Query · Data Visualization
+
+<div align="center">
+
+<a href="https://github.com/deyy13/IPL-Analysis-PowerBI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=IPL-Analysis-PowerBI&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="IPL Dashboard" />
+</a>
+
+</div>
+
+### 📈 3. Trader Sentiment Analysis
+
+Exploring the relationship between cryptocurrency market sentiment and trader performance using the Bitcoin Fear/Greed Index.
+
+**Tech:** Python · Pandas · Data Analysis · Market Sentiment
 
 <div align="center">
 
 <a href="https://github.com/deyy13/primetrade-trader-sentiment-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=primetrade-trader-sentiment-analysis&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Sentiment Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=primetrade-trader-sentiment-analysis&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Trader Sentiment Analysis" />
 </a>
 
 </div>
 
-### 🐦 Bird Species Observation Analysis
+### 🐦 4. Bird Species Observation Analysis
 
-Explored bird observation datasets to identify species patterns and support data-driven ecological insights.
+Exploring bird observation datasets to understand species patterns and ecological trends.
+
+**Focus:** Exploratory Data Analysis · Data Visualization
 
 <div align="center">
 
 <a href="https://github.com/deyy13/Bird-Species-Observation-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=Bird-Species-Observation-Analysis&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Bird Species Project" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=Bird-Species-Observation-Analysis&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="Bird Species Analysis" />
+</a>
+
+</div>
+
+### 📱 5. PhonePe Pulse Data Visualization
+
+A data visualization project exploring PhonePe Pulse data.
+
+**Focus:** Data Analytics · Visualization
+
+<div align="center">
+
+<a href="https://github.com/deyy13/PhonePe-Pulse-Data-Visualization">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=PhonePe-Pulse-Data-Visualization&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="PhonePe Pulse Visualization" />
+</a>
+
+</div>
+
+### 📦 6. FedEx Logistics EDA
+
+An exploratory data analysis project focused on logistics data and discovering operational patterns.
+
+**Focus:** Exploratory Data Analysis · Business Analytics
+
+<div align="center">
+
+<a href="https://github.com/deyy13/fedex-logistics-eda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deyy13&repo=fedex-logistics-eda&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" alt="FedEx Logistics EDA" />
 </a>
 
 </div>
 
 ---
 
+<h2 align="center">🌸 More of My Projects</h2>
+
+<details>
+<summary><b>🪻 Click to Explore More Projects</b></summary>
+
+<br/>
+
+### 🎵 Apple iTunes Music Analysis
+
+An exploration of music-related datasets to uncover patterns and trends.
+
+[View Repository](https://github.com/deyy13/Apple-iTunes-Music-Analysis)
+
+### 💗 Bellabeat Fitness Analysis
+
+An analysis of fitness-related data to explore user activity and wellness patterns.
+
+[View Repository](https://github.com/deyy13/bellabeat-fitness-analysis)
+
+</details>
+
+---
+
 <h2 align="center">💼 Professional Experience</h2>
 
-### 🌸 Data Science Intern | Innovexis
+### 🌷 Data Science Intern | Innovexis
 **April 2026 – July 2026**
 
-- Processed, cleaned, and transformed structured datasets using **Python, Pandas, NumPy, and SQL**.
-- Conducted exploratory data analysis and statistical analysis.
+- Processed, cleaned, and transformed datasets using **Python, Pandas, NumPy, and SQL**.
+- Performed exploratory data analysis and statistical analysis.
 - Identified trends and patterns to support data-driven decision-making.
-- Created visualizations and analytical reports to communicate findings.
+- Created data visualizations and analytical reports.
 - Applied machine learning techniques for predictive modeling.
-- Collaborated with team members to achieve project objectives.
+- Collaborated with team members on data-driven projects.
 
 ---
 
@@ -168,7 +228,7 @@ July 2022 – May 2025
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NASA-Space_Apps_2026-6d28d9?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps Challenge" />
+<img src="https://img.shields.io/badge/NASA-Space_Apps_2026-6d28d9?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps" />
 
 <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-31264B?style=for-the-badge&logo=ibm&logoColor=E9D5FF" alt="IBM AI Fundamentals" />
 
@@ -223,7 +283,7 @@ Recognized for participation and efforts to address challenges involving Earth a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deyy13&show_icons=true&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=deyy13&show_icons=true&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=6d28d9" height="180" alt="GitHub Statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyy13&layout=compact&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&border_color=6d28d9" height="180" alt="Top Languages" />
 
@@ -249,7 +309,7 @@ Recognized for participation and efforts to address challenges involving Earth a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deyy13&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=e9d5ff&area=true&area_color=6d28d9&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deyy13&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=e9d5ff&area=true&area_color=6d28d9&hide_border=true" width="100%" alt="Contribution Activity" />
 
 </div>
 
